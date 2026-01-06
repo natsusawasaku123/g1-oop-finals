@@ -1,2 +1,2 @@
-# g1-oop-finals
+# g2-oop-finals
 sourcecode
